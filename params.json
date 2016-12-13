@@ -1,6 +1,6 @@
 {
   "name": "Owen Barnett-Mulligan",
   "tagline": "",
-  "body": "## A few projects:\r\n* [Sudoku Solver](https://github.com/oabm/sudoku-solver)\r\n* [Coursera Web Development](https://github.com/oabm/coursera-web-dev)\r\n* [*This* Page](https://github.com/oabm/oabm.github.io)",
+  "body": "## A few projects:\r\n* [Sudoku Solver](https://github.com/oabm/sudoku-solver)\r\n  * Exploring Sudoku solving algorithms with Scala.\r\n* [Gravity Game](https://github.com/oabm/gravity-game)\r\n  * Learning [Kivy](https://kivy.org).\r\n  * Originally implemented in 2012. Recently migrated to Github.\r\n* [HTML, CSS, and Javascript for Web Developers (__Coursera__)](https://github.com/oabm/coursera-web-dev)\r\n  * Solutions to assignments for [course](https://www.coursera.org/learn/html-css-javascript-for-web-developers).\r\n* [*This* Page](https://github.com/oabm/oabm.github.io)\r\n  * The source code to the page you're viewing _right now_!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
